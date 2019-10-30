@@ -1,1 +1,1 @@
-# boincplanet management platform
+# boincplanet.com management platform
