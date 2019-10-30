@@ -1,0 +1,16 @@
+{
+    "name": "boinc/boinc_admin",
+    "description": "boincplanet.com management platform",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "laravel/laravel": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "lee1713",
+            "email": "18901394968@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
